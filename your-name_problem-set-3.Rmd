@@ -1,5 +1,5 @@
 ---
-title: "Problem set 3: Property taxes in the Western US"
+title: "Problem set 4: Property taxes in the Western US"
 author: "Your name here"
 date: "Date here"
 ---
